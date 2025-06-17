@@ -205,18 +205,19 @@ aside > ul{
 
 footer{
     background-color: var(--cor06);
+    font-size: 0.8em;
     color: white;
     padding-left: 15px;
     text-align: center;
 }
 
-footer > a{
+footer > p > a{
     color: white;
     text-decoration: none;
     font-style: italic;
     font-weight: bold;
 }
 
-footer > a:hover{
+footer > p > a:hover{
     color: darkgray;
 }
